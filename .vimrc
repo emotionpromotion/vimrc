@@ -216,10 +216,10 @@ Bundle 'gmarik/ingretu'
 " Also switch on highlighting the last used search pattern.
 if &t_Co > 2 || has("gui_running")
 "  colorscheme evening
-   colorscheme ingretu
+"   colorscheme ingretu
 "  colorscheme molokai
 "  colorscheme vim-mac-classic-theme
-"  colorscheme solarized
+  colorscheme solarized
 endif
 
 
